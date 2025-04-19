@@ -17,6 +17,8 @@
 ### Study
 
 - Algorithm
+- Backend
+  - Django
 
 
 ### Tech Stack
