@@ -19,6 +19,8 @@
 - Algorithm
 - Backend
   - Django
+- Frontend
+  - Javascript
 
 
 ### Tech Stack
