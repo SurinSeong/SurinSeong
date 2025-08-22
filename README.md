@@ -46,3 +46,4 @@
 ## 📞 Contact
 
 - Email: tjdtnfls1128@gmail.com
+- Blog : https://surinseong.github.io/
