@@ -3,12 +3,13 @@
 ## 📍 History
 
 - SSAFY 13th (2025.01 ~)
+- Meta & Llama Academy Workshop (2025.09)
 - Multicampus AI/SW Developer Bootcamp (2024.03 ~ 2024.09)
 - Konkuk University, BioMedical Science & Engineering (2019.03 ~ 2025.02)
 
 ## 📍 Project
 
-- 수어지교 (2025.08 ~)
+- 수어지교 (2025.08 ~ 2025.09)
 - 쏙닥 (2025.07 ~ 2025.08)
 - CupChat (2025.07)
 - 타임트래블 (2025.06 ~ 2025. 09)
